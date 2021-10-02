@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iryna-Slynko
-- 👀 I’m interested in Software Development, Computer Vision
-- 🌱 I’m currently learning Java, Algorithms and Data Structures
+- 👀 I’m interested in Software Development, Computer Vision, Education, Technology and Science in general.
+- 🌱 I’m currently learning Java, Algorithms and Data Structures, Applied ML, Cloud Architecture, Enterprise Performance Archetecting and DevOps.
 - 💞️ I also like fitness, music, out of doors, cats and humour.
 - 📫 iryna.slynko@gmail.com
 
